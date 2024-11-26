@@ -1,5 +1,7 @@
 # Centralization-Decentralization Cycle
 
+![](SmoothAngle.gif)
+
 The Centralization-Decentralization cycle is a 500-year pattern observed in the organization of societies and political structures. This cycle alternates between periods of:
 
 1. Decentralization: Characterized by local autonomy, diverse power centers, and often rapid innovation.
